@@ -10,6 +10,7 @@ We will need 1 Router and 2 Switches, one switch for each department.
 <img width="838" alt="Part 1 - 1 Router 2 Switches" src="https://github.com/michaelcronk/Simple-Network-Project/assets/32269513/eee21e0d-78b8-4744-8f02-52aa708446b3">
 
 <br>
+<br>
 
 Each department will have 2 PCs and 1 Printer. After that we can then connect the devices with the appropriate cables.
 
@@ -17,6 +18,7 @@ Each department will have 2 PCs and 1 Printer. After that we can then connect th
 
 <img width="920" alt="Part 2 - PCs and Printers" src="https://github.com/michaelcronk/Simple-Network-Project/assets/32269513/baf230fb-7686-4076-8c89-2661cd3a9f32">
 
+<br>
 <br>
 
 Now given a Network of 192.168.40.0, we will create 2 subnets from this because we have 2 departments.
