@@ -1,12 +1,12 @@
 # Simple-Network-Project
-##In this project I will be creating a simple network for a small company to connect the “Accounts” and “Delivery” departments.
+## In this project I will be creating a simple network for a small company to connect the “Accounts” and “Delivery” departments.
 
 
 We will need 1 Router and 2 Switches, one switch for each department.
 
 
 
-<img width="838" alt="Part 1 - 1 Router 2 Switches" src="https://github.com/michaelcronk/Simple-Network-Project/assets/32269513/eee21e0d-78b8-4744-8f02-52aa708446b3">
+<img width="838" alt="Part 1 - 1 Router 2 Switches" src="https://github.com/michaelcronk/Simple-Network-Project/assets/32269513/eee21e0d-78b8-4744-8f02-52aa708446b3"><br>
 
 
 
@@ -14,7 +14,7 @@ Each department will have 2 PCs and 1 Printer. After that we can then connect th
 
 
 
-<img width="920" alt="Part 2 - PCs and Printers" src="https://github.com/michaelcronk/Simple-Network-Project/assets/32269513/baf230fb-7686-4076-8c89-2661cd3a9f32">
+<img width="920" alt="Part 2 - PCs and Printers" src="https://github.com/michaelcronk/Simple-Network-Project/assets/32269513/baf230fb-7686-4076-8c89-2661cd3a9f32"><br>
 
 
 
@@ -26,7 +26,7 @@ The *second subnet mask* will be 255.255.255.128 with a *Network ID* of 192.168.
 
 
 
-<img width="1005" alt="Part 3 - Subnet Mask" src="https://github.com/michaelcronk/Simple-Network-Project/assets/32269513/27d14a8b-5d6c-4b78-a7c4-7a485d76015d">
+<img width="1005" alt="Part 3 - Subnet Mask" src="https://github.com/michaelcronk/Simple-Network-Project/assets/32269513/27d14a8b-5d6c-4b78-a7c4-7a485d76015d"><br>
 
 
 
@@ -34,7 +34,7 @@ Then we assign the Interface IPs from the *Router* to the *Switches*
 
 
 
-<img width="207" alt="Part 4 - Assigning IPs" src="https://github.com/michaelcronk/Simple-Network-Project/assets/32269513/eb45a354-7a34-469a-ac5d-11fa661f194d">
+<img width="207" alt="Part 4 - Assigning IPs" src="https://github.com/michaelcronk/Simple-Network-Project/assets/32269513/eb45a354-7a34-469a-ac5d-11fa661f194d"><br>
 
 
 
@@ -42,7 +42,7 @@ Now we configure all the devices with appropriate IPs and test the connections.
 
 
 
-<img width="899" alt="Part 5 - IP Configuring" src="https://github.com/michaelcronk/Simple-Network-Project/assets/32269513/2673740c-77ca-4837-b25a-f2f5553ed4f6">
+<img width="899" alt="Part 5 - IP Configuring" src="https://github.com/michaelcronk/Simple-Network-Project/assets/32269513/2673740c-77ca-4837-b25a-f2f5553ed4f6"><br>
 
 
 
@@ -50,7 +50,7 @@ Testing 192.168.40.130(computer - PC2) to see if we can ping 192.168.40.2 (compu
 
 
 
-<img width="280" alt="Part 6 - Testing 130 from 2" src="https://github.com/michaelcronk/Simple-Network-Project/assets/32269513/57f3d544-9d87-4344-b490-e8095efe1142">
+<img width="280" alt="Part 6 - Testing 130 from 2" src="https://github.com/michaelcronk/Simple-Network-Project/assets/32269513/57f3d544-9d87-4344-b490-e8095efe1142"><br>
 
 
 
@@ -58,7 +58,7 @@ Testing 192.168.40.131(computer - PC3) to see if we can ping 192.168.40.4 (print
 
 
 
-<img width="289" alt="Part 6 - Testing 131 to 4" src="https://github.com/michaelcronk/Simple-Network-Project/assets/32269513/878f91aa-95b0-4c3b-8068-5844f0c259ec">
+<img width="289" alt="Part 6 - Testing 131 to 4" src="https://github.com/michaelcronk/Simple-Network-Project/assets/32269513/878f91aa-95b0-4c3b-8068-5844f0c259ec"><br>
 
 
 
