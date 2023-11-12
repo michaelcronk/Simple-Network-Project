@@ -23,9 +23,9 @@ Each department will have 2 PCs and 1 Printer. After that we can then connect th
 
 Now given a Network of 192.168.40.0, we will create 2 subnets from this because we have 2 departments.
 
-The *first subnet mask* will be 255.255.255.128 with a *Network ID* of 192.168.40.128 with a range of valid hosts from 192.168.40.1 - 192.168.40.126 and it will have a *Broadcast ID* of 192.168.40.127
+The *first subnet mask* will be 255.255.255.128 with a *Network ID* of 192.168.40.0 with a range of valid hosts from 192.168.40.1 - 192.168.40.126 and it will have a *Broadcast ID* of 192.168.40.127
 
-The *second subnet mask* will be 255.255.255.128 with a *Network ID* of 192.168.40.0 with a range of valid hosts from 192.168.40.129 - 192.168.40.254 and it will have a *Broadcast ID* of 192.168.40.255
+The *second subnet mask* will be 255.255.255.128 with a *Network ID* of 192.168.40.128 with a range of valid hosts from 192.168.40.129 - 192.168.40.254 and it will have a *Broadcast ID* of 192.168.40.255
 
 <br>
 
